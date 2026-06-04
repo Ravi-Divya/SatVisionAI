@@ -1,4 +1,4 @@
-# SatVision AI
+# SatVisionAI
 
 AI-Based Satellite Image Analysis and Object Detection System using YOLOv11 and OpenCV.
 
